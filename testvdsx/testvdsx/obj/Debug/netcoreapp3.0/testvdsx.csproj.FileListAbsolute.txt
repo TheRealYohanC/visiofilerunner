@@ -1,0 +1,11 @@
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\bin\Debug\netcoreapp3.0\testvdsx.exe
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\bin\Debug\netcoreapp3.0\testvdsx.deps.json
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\bin\Debug\netcoreapp3.0\testvdsx.runtimeconfig.json
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\bin\Debug\netcoreapp3.0\testvdsx.runtimeconfig.dev.json
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\bin\Debug\netcoreapp3.0\testvdsx.dll
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\bin\Debug\netcoreapp3.0\testvdsx.pdb
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\obj\Debug\netcoreapp3.0\testvdsx.csprojAssemblyReference.cache
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\obj\Debug\netcoreapp3.0\testvdsx.AssemblyInfoInputs.cache
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\obj\Debug\netcoreapp3.0\testvdsx.AssemblyInfo.cs
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\obj\Debug\netcoreapp3.0\testvdsx.dll
+C:\Users\YOHAN-DESKTOP\source\repos\testvdsx\testvdsx\obj\Debug\netcoreapp3.0\testvdsx.pdb
